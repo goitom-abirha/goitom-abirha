@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Goitom Abirha
+🎓 MSc in Data Science | 💻 Machine Learning & AI Engineer | 🌍 Passionate about building AI-powered creative systems  
 
-<!--
-**goitom-abirha/goitom-abirha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 About Me
+- 🎓 Completed MSc in Data Science (GPA 3.84)
+- 🧩 Focus: Machine Learning, Flask, Data Visualization, and AI-driven design systems
+- 🚀 Passionate about using AI to enhance creativity and collaboration  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+Python | TensorFlow | Keras | scikit-learn | Flask | Azure SQL | Tableau | Figma | Java | C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- 🎓 **Student Performance Prediction App** – Flask web app for ML grade prediction  
+- 🧠 **AI Developer Assistant** – Flask + LLM prototype for AI-powered code suggestions  
+- 🌍 **CIFAR-10 Image Classifier** – CNN achieving 92% accuracy with Keras  
+- 📊 **Mushroom Classifier** – TensorFlow + PCA model with interactive visualizations  
+
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/goitom-abirha-622380381) | [Email](mailto:goitomabirha41@gmail.com)
