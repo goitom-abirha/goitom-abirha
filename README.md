@@ -31,7 +31,7 @@ A Flask-based ML web app predicting student grades using linear models and SVM.
 📊 *Includes SHAP explainability visuals and Azure SQL integration.*
 
 ![Student Performance App Screenshot](FlaskWebAppInputForm.PNG)
-
+![Flask Web App Prediction Result](FlaskWebAppPredictionResult.PNG)
 
 ---
 
