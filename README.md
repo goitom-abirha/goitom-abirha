@@ -55,7 +55,7 @@ CNN-based image recognition model achieving **92% accuracy** using Keras.
 A TensorFlow neural network predicting edible vs. poisonous mushrooms.  
 🍄 *Includes PCA dimensionality reduction and interactive charts.*
 
-![Mushroom Dashboard](https://github.com/goitom-abirha/mushroom-ml-project/raw/main/images/demo.png)
+![Mushroom Dashboard](MushroomClassification.PNG)
 
 ---
 
