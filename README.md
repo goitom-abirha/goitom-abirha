@@ -47,7 +47,6 @@ Flask + LLM-powered tool that provides smart coding and design feedback — brid
 CNN-based image recognition model achieving **92% accuracy** using Keras.  
 📸 *Focus: explainability and visual interaction.*
 
-![CIFAR-10 Visualization](https://github.com/goitom-abirha/cifar10-cnn-classifier/raw/main/images/demo.png)
 
 ---
 
