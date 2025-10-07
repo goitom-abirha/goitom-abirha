@@ -37,9 +37,6 @@ A Flask-based ML web app predicting student grades using linear models and SVM.
 
 ### 🧠 AI Developer Assistant (Prototype)  
 Flask + LLM-powered tool that provides smart coding and design feedback — bridging creativity and AI.  
-🧩 *Inspired by Figma’s AI-assisted workflow vision.*
-
-![AI Developer Assistant Screenshot](https://github.com/goitom-abirha/ai-developer-assistant/raw/main/images/demo.png)
 
 ---
 
