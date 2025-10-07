@@ -28,9 +28,10 @@
 
 ### 🎓 Student Performance Prediction App  
 A Flask-based ML web app predicting student grades using linear models and SVM.  
-📊 FlaskWebAppInputForm.PNG
+📊 *Includes SHAP explainability visuals and Azure SQL integration.*
 
-FlaskWebAppInputForm.PNG
+![Student Performance App Screenshot](https://github.com/goitom-abirha/student-performance-ml/raw/main/images/demo.png)
+
 
 ---
 
