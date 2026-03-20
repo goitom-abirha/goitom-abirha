@@ -1,28 +1,31 @@
 # 👋 Hi, I'm Goitom Abirha  
 
-🎓 MSc in Data Science | ✈️ Aviation AI & Predictive Maintenance Specialist  
-💻 Machine Learning Engineer | 📊 Risk Analytics | 🧠 Explainable AI  
+🎓 MSc in Data Science | 💻 Machine Learning Engineer | 📊 Data Scientist  
+🧠 Predictive Modeling • Risk Analytics • Explainable AI  
 
-🚀 I build **end-to-end machine learning systems** that transform complex data into **actionable insights**, with a focus on **aviation safety, predictive maintenance, and intelligent decision systems**.
-
----
-
-## 🎯 What I Do  
-- ✈️ Develop **Aircraft Engine Failure Prediction systems (LSTM/GRU, NASA CMAPSS)**  
-- 📊 Build **Explainable AI models (SHAP, fairness-aware ML)**  
-- 🧠 Design **complete ML pipelines (EDA → Modeling → Deployment)**  
-- 🌐 Deploy **interactive applications (Flask, Streamlit dashboards)**  
-- ☁️ Integrate **data systems (Azure SQL, APIs, analytics pipelines)**  
-
-💡 Passionate about solving **real-world problems using AI + data + design thinking**.
+🚀 I design and deploy **end-to-end machine learning systems** that turn complex data into **actionable insights and decision intelligence** across industries including **finance, healthcare, and operational systems**.
 
 ---
 
-## 🧠 About Me  
-- 🎓 MSc in Data Science from Eastern University  
-- 🧩 Specializing in **Machine Learning, Deep Learning, and Data Visualization**  
-- 🚀 Strong focus on **production-ready ML systems and real-world applications**  
-- 🎨 Inspired by **Figma’s design philosophy** — blending **AI + creativity + usability**
+## 💼 Professional Value  
+
+✔️ Build **predictive models** to reduce risk and improve decision-making  
+✔️ Develop **scalable ML pipelines** from raw data to deployment  
+✔️ Apply **Explainable AI (SHAP)** to increase trust and transparency  
+✔️ Deliver **interactive dashboards and applications** for real-time insights  
+
+💡 Focus: **Transforming data into measurable business impact**
+
+---
+
+## 🧠 Core Expertise  
+
+- Predictive Modeling (Regression, Classification, Time-Series)  
+- Risk Scoring & Decision Systems  
+- Deep Learning (LSTM, GRU, CNN)  
+- Explainable AI & Model Transparency  
+- End-to-End ML Pipeline Development  
+- Data Visualization & Storytelling  
 
 ---
 
@@ -37,68 +40,87 @@
 
 ---
 
-## 📂 Featured Projects  
+## 📂 Selected Projects & Impact  
 
-### ✈️ Aircraft Engine Safety Risk Prediction System  
-🔹 LSTM/GRU-based predictive maintenance system using NASA CMAPSS data  
-🔹 Predicts Remaining Useful Life (RUL) and engine failure risk  
+### ✈️ Aircraft Engine Predictive Maintenance (LSTM/GRU)  
+🔹 Built a time-series forecasting system to predict Remaining Useful Life (RUL)  
+
+💡 Business Value:  
+- Enables **early failure detection** and reduces operational risk  
+- Supports **maintenance optimization and cost reduction**  
 
 ✅ Key Contributions:  
-- Built time-series models for early failure detection  
-- Designed fleet-level risk scoring system  
-- Developed interactive dashboard for decision support  
+- Designed LSTM & GRU models for degradation prediction  
+- Engineered sequence-based features (time-window modeling)  
+- Built risk scoring system for proactive decision-making  
+- Developed Streamlit dashboard for fleet monitoring  
 
-🛠 Tech: TensorFlow, Streamlit, Time-Series Modeling  
+🛠 Tech: TensorFlow, Time-Series Modeling, Streamlit  
 
 ---
 
-### 🎓 Student Performance Prediction App  
-🔹 Flask-based ML web app predicting student grades using Linear Models & SVM  
+### ✈️ Aircraft Engine Safety Risk Prediction System  
+🔹 Developed a risk classification system for multi-condition failure prediction  
+
+💡 Business Value:  
+- Improves **safety monitoring and risk prioritization**  
+- Enables **data-driven operational decisions**  
 
 ✅ Features:  
-- SHAP explainability for model transparency  
-- Azure SQL integration for data storage  
-- Interactive prediction interface  
-
-📊 Focus: **Explainable AI + Educational Insights**
-
-![Student Performance App](FlaskWebAppInputForm.PNG)
-![Prediction Result](FlaskWebAppPredictionResult.PNG)
+- Risk levels (Low / Medium / High)  
+- Fleet ranking system  
+- Predictive risk scoring  
 
 ---
 
-### 🧠 AI Developer Assistant (Prototype)  
-🔹 LLM-powered assistant for coding and design feedback  
+### 📊 Predictive Maintenance Analytics (Azure SQL + IoT)  
+🔹 Built an end-to-end ML system using sensor data  
 
-✅ Features:  
-- Intelligent suggestions using natural language  
-- Bridges AI + developer productivity  
-
-🛠 Tech: Flask, LLM APIs  
+💡 Business Value:  
+- Enhances **real-time monitoring and operational efficiency**  
+- Supports **data-driven maintenance strategies**  
 
 ---
 
-### 🌍 CIFAR-10 Image Classifier  
-🔹 CNN-based image classification model  
+### 💳 LLM Fraud Detection Assistant  
+🔹 Developed an AI-driven fraud detection system  
 
-✅ Achieved:  
-- **92% accuracy** using Keras  
-- Enhanced model interpretability  
-
-📸 Focus: **Computer Vision + Explainability**
+💡 Business Value:  
+- Detects suspicious transactions and reduces financial risk  
+- Provides **interpretable explanations for decisions**  
 
 ---
 
-### 📊 Mushroom Classifier (Neural Network + PCA)  
-🔹 Deep learning model for edible vs poisonous classification  
+### 🎓 Fair & Explainable AI – Student Performance  
+🔹 Built fairness-aware models to improve transparency  
 
-✅ Features:  
-- PCA for dimensionality reduction  
-- Interactive visualization dashboard  
+💡 Business Value:  
+- Identifies bias and improves model fairness  
+- Enhances trust in predictive systems  
 
-🛠 Tech: TensorFlow, PCA  
+---
 
-![Mushroom Dashboard](MushroomClassification.PNG)
+### 🌍 Image Classification (CNN – 92% Accuracy)  
+🔹 Developed a deep learning model for image recognition  
+
+💡 Business Value:  
+- Demonstrates capability in **computer vision applications**  
+
+---
+
+### 📊 Neural Network Classification (PCA + Deep Learning)  
+🔹 Built optimized classification system using dimensionality reduction  
+
+💡 Business Value:  
+- Improves model efficiency and performance  
+
+---
+
+## 📸 Project Demonstrations  
+
+![Student App](FlaskWebAppInputForm.PNG)  
+![Prediction Result](FlaskWebAppPredictionResult.PNG)  
+![Mushroom Dashboard](MushroomClassification.PNG)  
 
 ---
 
@@ -108,4 +130,4 @@
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goitomabirha41@gmail.com)
 
 💼 Open to opportunities in:  
-**Data Science | Machine Learning | Aviation Analytics | AI Engineering**
+**Data Science | Machine Learning | Risk Analytics | AI Engineering**
