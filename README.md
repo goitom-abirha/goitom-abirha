@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Goitom Abirha  
 
-🎓 MSc in Data Science | 💻 Data Scientist | 🤖 Machine Learning Engineer  
+🎓 MSc in Data Science | 💻 Data Scientist | 🤖 Machine Learning Engineer |Data Engineer
 📊 Predictive Modeling • Risk Analytics • Explainable AI  
 
 🚀 I build **end-to-end machine learning systems** that turn complex data into **real-world decisions and business impact**.
