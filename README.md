@@ -1,104 +1,175 @@
-# 👋 Hi, I'm Goitom Abirha  
+# 👋 Hi, I'm Goitom Abirha
 
-🎓 MSc in Data Science | 💻 Data Scientist | 🤖 Machine Learning Engineer |Data Engineer
-📊 Predictive Modeling • Risk Analytics • Explainable AI  
+### AI Practitioner • Data Scientist • Data Engineer • Accessibility Innovator
 
-🚀 I build **end-to-end machine learning systems** that turn complex data into **real-world decisions and business impact**.
+Building AI systems that improve accessibility, healthcare outcomes, and real-world decision-making.
 
----
-
-## ⚡ Quick Highlights  
-
-- 🧠 Built **LSTM/GRU models** for time-series prediction (RUL forecasting)  
-- 📉 Developed **risk scoring systems** for decision-making  
-- 💡 Applied **Explainable AI (SHAP)** for model transparency  
-- 🌐 Deployed **interactive ML apps** (Flask, Streamlit)  
-- ☁️ Integrated **Azure SQL + analytics pipelines**  
+🎓 M.S. in Data Science
+📍 Silver Spring, Maryland, USA
+🌎 Open to Data Science, Data Engineering, AI, and Analytics Opportunities
 
 ---
 
-## 🧰 Tech Stack  
+## 🚀 Mission
 
-**Languages:** Python, SQL, Java, C++  
-**ML/AI:** TensorFlow, Keras, Scikit-learn, SHAP  
-**Data:** Pandas, NumPy, Matplotlib, Seaborn  
-**Deployment:** Flask, Streamlit  
-**Cloud & DB:** Azure SQL  
-**Tools:** Git, Tableau, Jupyter, VS Code  
+I believe technology should solve meaningful problems.
 
----
+My work focuses on building practical AI solutions that help people make better decisions, improve access to services, and create measurable impact in healthcare, education, and community-focused environments.
 
-## 🚀 Featured Projects  
-
-### ✈️ Aircraft Engine Predictive Maintenance  
-🔹 Time-series ML system using LSTM/GRU to predict Remaining Useful Life (RUL)  
-
-💡 Impact:  
-- Enables **early failure detection**  
-- Supports **risk reduction & maintenance optimization**  
-
-🛠 TensorFlow • Streamlit • Time-Series  
+From cloud-based healthcare analytics platforms to multilingual accessibility tools and predictive maintenance systems, I enjoy taking projects from idea to deployment.
 
 ---
 
-### ✈️ Aircraft Engine Safety Risk Prediction  
-🔹 Risk classification system (Low / Medium / High) for operational decision-making  
+# 🌟 Featured Projects
 
-💡 Impact:  
-- Improves **safety monitoring & prioritization**  
-- Supports **data-driven decisions**  
+## ♿ AccessVoice AI
 
----
+### AI-Powered Accessibility Platform
 
-### 💳 Fraud Detection Assistant (LLM + ML)  
-🔹 AI-powered system detecting suspicious financial transactions  
+A multilingual, voice-enabled platform designed to help seniors, individuals with disabilities, and low-literacy users independently complete forms and access essential services.
 
-💡 Impact:  
-- Reduces **financial risk**  
-- Provides **explainable insights**  
+### Key Features
 
----
+* Voice-guided interactions
+* Multilingual support
+* Accessibility-first design
+* AI-powered workflow assistance
+* Administrative dashboards
+* Real-time reporting
 
-### 🎓 Student Performance Prediction (Explainable AI)  
-🔹 Flask-based ML app with SHAP explainability  
+### Technologies
 
-💡 Impact:  
-- Improves **model transparency & trust**  
+FastAPI • OpenAI • Claude • JavaScript • Speech Recognition • REST APIs
 
-![App](FlaskWebAppInputForm.PNG)
+### Impact
 
----
-
-### 🌍 Image Classification (CNN – 92% Accuracy)  
-🔹 Deep learning model for image recognition  
-
-💡 Impact:  
-- Demonstrates **strong deep learning capability**  
+Helping bridge digital accessibility gaps through human-centered AI.
 
 ---
 
-### 📊 Neural Network + PCA Classification  
-🔹 Optimized model with dimensionality reduction  
+## 🏥 Healthcare Readmission Prediction Platform
 
-💡 Impact:  
-- Improves **efficiency & performance**  
+End-to-end healthcare analytics solution for predicting 30-day patient readmission risk.
 
-![Dashboard](MushroomClassification.PNG)
+### Built With
+
+Python • AWS S3 • Glue • Athena • PySpark • Docker • Streamlit
+
+### Results
+
+* 78% Accuracy
+* 79% Precision
+* 80% Recall
+* 0.86 ROC-AUC
+
+### Highlights
+
+* Cloud-based data architecture
+* Automated ETL pipelines
+* Interactive analytics dashboard
+* Risk stratification for patient care
 
 ---
 
-## 📈 What Makes Me Different  
+## ✈️ Aircraft Engine Predictive Maintenance
 
-✔️ I don’t just build models — I build **decision systems**  
-✔️ I focus on **real-world impact, not just accuracy**  
-✔️ I combine **ML + explainability + deployment**  
+Deep learning solution using NASA C-MAPSS data to predict Remaining Useful Life (RUL) of aircraft engines.
+
+### Technologies
+
+TensorFlow • LSTM • GRU • Streamlit • Python
+
+### Results
+
+* ~9 MAE
+* Risk scoring framework
+* Real-time maintenance dashboard
+
+### Impact
+
+Supports proactive maintenance planning and operational safety.
 
 ---
 
-## 📫 Connect With Me  
+## 🎓 Student Performance Prediction
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Goitom_Abirha-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/goitom-abirha-622380381)  
-[![Email](https://img.shields.io/badge/Email-goitomabirha41@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:goitomabirha41@gmail.com)
+Explainable AI solution designed to identify factors influencing student success.
 
-💼 Open to:  
-**Data Science | Machine Learning | Risk Analytics | AI Engineering**
+### Technologies
+
+Python • Scikit-learn • SHAP • Power BI
+
+### Results
+
+* 96% predictive accuracy
+* Bias reduction through explainability
+* Decision-support dashboards
+
+---
+
+# 🛠 Technical Toolbox
+
+### Languages
+
+Python • SQL • JavaScript • HTML • CSS
+
+### AI & Machine Learning
+
+Scikit-learn • TensorFlow • LSTM • GRU • SHAP • Predictive Analytics
+
+### Generative AI
+
+Claude • OpenAI GPT • Prompt Engineering • LLM Evaluation • AI Workflow Design
+
+### Data Engineering
+
+ETL Pipelines • Data Modeling • Data Quality • PySpark • Feature Engineering
+
+### Cloud & Databases
+
+AWS (S3, Glue, Athena) • Azure SQL Database
+
+### Deployment
+
+FastAPI • Docker • Streamlit • GitHub Actions
+
+### Visualization
+
+Power BI • Tableau • Matplotlib • Pandas
+
+---
+
+# 📜 Certifications
+
+🏅 Anthropic AI Fluency
+
+🏅 Anthropic Claude 101
+
+🏅 Microsoft Certified: Azure SQL Database Administrator (DP-300)
+
+🏅 CompTIA A+
+
+---
+
+# 📈 Current Focus
+
+* Generative AI Applications
+* AI for Accessibility
+* Healthcare Analytics
+* Data Engineering on AWS
+* LLM Evaluation & Responsible AI
+* Human-Centered AI Systems
+
+---
+
+# 🤝 Let's Connect
+
+💼 LinkedIn: linkedin.com/in/goitom-abirha-089428397
+
+📧 Email: [goitomabirha6@gmail.com](mailto:goitomabirha6@gmail.com)
+
+🌐 GitHub: github.com/goitom-abirha
+
+---
+
+> "The best AI systems are not the most complex ones. They are the ones that make people's lives better."
